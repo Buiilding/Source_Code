@@ -4,6 +4,8 @@ Mô hình Phân loại Ngôn ngữ Ký hiệu
 Yêu cầu
 Đảm bảo bạn đã cài đặt các yêu cầu sau trước khi chạy mã:
 
+Chú ý: Cài đặt Python 3.7 
+
 - torch==1.9.0
 - streamlit==0.86.0
 - Pillow==8.3.1
