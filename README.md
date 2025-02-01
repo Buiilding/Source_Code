@@ -32,7 +32,7 @@ Cách sử dụng
 3. Mở terminal hoặc command prompt và điều hướng đến thư mục dự án.
 
 4. Chạy lệnh sau để bắt đầu ứng dụng:
-    streamlit run main.py
+    streamlit run web.py
 5. Khi ứng dụng bắt đầu, một trang web sẽ mở trong trình duyệt của bạn.
 
 6. Bạn sẽ thấy một menu thanh bên với các tùy chọn khác nhau. Chọn "AI Computer Vision" để truy cập tính năng phân loại ngôn ngữ ký hiệu.
